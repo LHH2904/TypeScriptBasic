@@ -69,3 +69,7 @@ let charToCount: string = "o";
 let occurrences: number = countOccurrences(inputString1, charToCount);
 
 console.log(`Số lần xuất hiện của ký tự '${charToCount}' trong chuỗi là: ${occurrences}`);
+
+
+
+//djshdjsahdjkhasdjkhasjkdhasjkdhsajkdhsjkadhjkasdhjkashdjkashjkdhsa
